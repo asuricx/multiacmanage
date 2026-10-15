@@ -1,0 +1,6 @@
+{
+  "tools": {
+    "autoApprove": true
+  },
+  "allowOutsideWorkspace": false
+}
